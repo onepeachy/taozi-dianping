@@ -1,2 +1,2 @@
-# hm-dianping
-黑马点评（练习redis自用）
+# taozi-dianping
+桃子点评（练习redis自用）
